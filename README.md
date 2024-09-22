@@ -3,21 +3,6 @@
   <p>A simplified version of the popular word game <b>Wordle</b>.</p>
 </div>
 
-# 👋 Contributors
-
-## Developer
-
-- [@DiamondPie](https://github.com/DiamondPie)
-
-## Inspiration providers & Debuggers
-
-- [@Void Magician](https://github.com/DiamondPiesDad)
-- [@70RCH](https://github.com/70RCH)
-
-## Special thanks
-
-- [Curses Library](https://docs.python.org/3/library/curses.html)
-
 # 🚀 Getting started
 
 1. Click on the **<span style='color:#1F883d'>Code</span>** button on the top right
@@ -37,3 +22,18 @@ pip install windows-curses
 6. Run `main.py` or type `python main.py` in the terminal
 
 7. **Enjoy the game!**
+
+# 👋 Contributors
+
+## Developer
+
+- [@DiamondPie](https://github.com/DiamondPie)
+
+## Inspiration providers & Debuggers
+
+- [@Void Magician](https://github.com/DiamondPiesDad)
+- [@70RCH](https://github.com/70RCH)
+
+## Special thanks
+
+- [Curses Library](https://docs.python.org/3/library/curses.html)
