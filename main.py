@@ -1,3 +1,6 @@
+### This stuff is a WHOLE MESS and maybe it's not suitable to be in examplers..
+### But anyway it's pretty good to watch :)
+
 print("Please wait while we are preparing TUI...")
 
 import curses, time, os
@@ -10,8 +13,8 @@ MIN_HEIGHT = 24
 MIN_WIDTH = 100
 settings = {
     "Play Customised": {
-        "Infinite Mode": True,
-        "Association Mode": True,
+        "Infinite Mode": False,
+        "Association Mode": False,
         "Winning Threshold": 3,
         "Word Length": 5
     },
