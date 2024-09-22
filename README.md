@@ -31,6 +31,7 @@ pip install windows-curses
 
 ## Inspiration providers & Debuggers
 
+- [@niuniu1234](https://github.com/niuniu12341234)
 - [@Void Magician](https://github.com/DiamondPiesDad)
 - [@70RCH](https://github.com/70RCH)
 
