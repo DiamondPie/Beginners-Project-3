@@ -37,7 +37,3 @@ pip install windows-curses
 6. Run `main.py` or type `python main.py` in the terminal
 
 7. **Enjoy the game!**
-
-<div style="height:100px"></div>
-
-> *It was raining; you didn't see me, and I didn't see the rain.*
