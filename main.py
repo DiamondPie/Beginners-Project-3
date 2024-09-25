@@ -402,7 +402,7 @@ def main(stdscr: curses.window):
     stdscr.clear()
     show_tip_if_new_player(stdscr)
     user_choice = main_menu(stdscr)
-    # check_settings()
+    check_settings()
     clear_screen_randomly(stdscr)
     main_game(stdscr, user_choice)
     time.sleep(1)
